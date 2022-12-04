@@ -1,3 +1,3 @@
 # Starbucks
  
-<a href="https://github.com/AykoSousa/Starbucks">Ver</a>
+<a href="https://aykosousa.github.io/Starbucks/">Ver</a>
