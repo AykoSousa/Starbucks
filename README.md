@@ -1,5 +1,5 @@
 # Starbucks
  
- Página criada com base no projeto feito por Bonieky Lacerda no curso da B7web
+Landing Page desenvolvida com base no projeto feito por Bonieky Lacerda no curso de HTML e CSS da B7Web
  
-<a href="https://aykosousa.github.io/Starbucks/" target="_blank">Ir para a página</a>
+<a href="https://aykosousa.github.io/Starbucks/" target="_blank">Vizualizar página</a>
